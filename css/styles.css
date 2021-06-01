@@ -1,0 +1,48 @@
+.container{
+    background-color: #121116;
+    width: 1900px;
+}
+
+.header_img{
+    margin-left: 900px;
+    margin-top: 120px;
+}
+
+.social_content{
+    font-size: 20px;
+    margin-left: 880px;
+    margin-top: 50px;
+    color: #ffffff;
+    margin-bottom: 20px;
+}
+
+.social_img{
+    margin-left: 865px;
+    margin-top: 20px;
+}
+
+.tweter_img{
+    margin-left: 35px;
+}
+
+.google_img{
+    margin-left: 35px;
+}
+
+.dribble_img{
+    margin-left: 35px;
+}
+
+.break{
+    width: 250px;
+}
+
+.copyrigth{
+    margin-left: 815px;
+    margin-top: 90px;
+    color: #ffffff;
+}
+
+.color_text{
+    color: #00c7fc;
+}
